@@ -12,3 +12,7 @@ Practicas realizadas para tutorias platzi
 [Uso]
 
 [Documentacion]
+
+[Roadmap]
+
+[Licencia]
